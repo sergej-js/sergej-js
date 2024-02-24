@@ -9,3 +9,5 @@
 <h1 align="center">⭐️ About Me</h1>
 <p align="center">🐻 I am Junior+ Backend developer and my goal is to become 🦁 Middle backend and I am going to it confidently learning new things for myself every day.</p>
 <h1 align="center">🛠 My technologies</h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64" height="64" />&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="64" height="64" />&nbsp
