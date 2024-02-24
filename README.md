@@ -10,5 +10,5 @@
 <p align="center">🐻 I am Junior+ Backend developer and my goal is to become 🦁 Middle backend and I am going to it confidently learning new things for myself every day.</p>
 <h1 align="center">🛠 My technologies</h1>
 <div id="tech" align="center">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,php,rust,nodejs,mysql,postgresql,redis,docker,git&theme=dark" width="64" height="64" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,php,rust,nodejs,mysql,postgresql,redis,docker,git&theme=dark" />
 </div>
